@@ -1,0 +1,39 @@
+.category_page_header{
+    display: flex;
+    margin-top:20px;
+
+}
+
+.category_page_back{
+    margin-left: 20px;
+}
+.category_page_back:hover{
+    opacity: 0.4;
+    transition: 0.4s;
+}
+
+.category_page_name{
+    margin-left: 400px;
+}
+
+.category_page_list{
+    margin-top: 40px;
+    margin-left: 20px;
+}
+
+.category_page_list_name_h2{
+    display: flex;
+}
+.category_page_list_name{
+    font-size:20px;
+    margin-left: 10px;
+    margin-top: 2px;
+}
+.category_page_list_name:hover{
+   transition:0.5s;
+   color: rgba(64, 109, 177, 0.486);
+   font-size:25px;
+   
+   
+}
+
