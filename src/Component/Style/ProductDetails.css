@@ -55,6 +55,8 @@
 }
 
 .other_products{
+    overflow-x: auto;
+	flex-wrap: nowrap;
     display:flex;
     position:fixed;
     position:absolute;
